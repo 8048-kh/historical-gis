@@ -1,1 +1,8 @@
 streamlit
+geemap
+geopandas
+jupyter-server-proxy
+leafmap
+nbserverproxy
+owslib
+streamlit
